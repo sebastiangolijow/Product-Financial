@@ -1,4 +1,4 @@
-***Product Financial****
+***Product Financial***
 
 The financial product is used by the financial team of the company. Is a back office product.
 
